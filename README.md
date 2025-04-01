@@ -1,8 +1,9 @@
 # Exercício de teste automatizado UI
 
-###Dando os primeiros passos na automação com Cypress
+### Dando os primeiros passos na automação com Cypress
 
 Recriar os exemplos aplicados em aula : 
+
 • Login
 
 • Cadastro
